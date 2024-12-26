@@ -1,5 +1,7 @@
 # 🎨 Ferramenta de Inspeção de Perfil no Discord
 
+![1](./Gemini_Generated_Image_algmu6algmu6algm.jpg)
+
 Uma ferramenta elegante e fácil de usar para inspecionar, analisar e baixar dados detalhados de qualquer perfil do Discord sem esforço! 🚀
 
 ---
