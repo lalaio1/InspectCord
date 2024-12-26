@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/24fac5d0-18ba-4273-9763-c5d707b75f58)# 🎨 Ferramenta de Inspeção de Perfil no Discord
+🎨 Ferramenta de Inspeção de Perfil no Discord
 
 ![1](./Gemini_Generated_Image_algmu6algmu6algm.jpg)
 
